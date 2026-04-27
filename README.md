@@ -2,7 +2,7 @@
 
 # Hi, I'm Sumaly Bajracharya 🙏
 
-## 💻 Backend Engineer
+**💻 Backend Engineer**
 
 📍 Vermillion, SD | 📧 [sumalybajra00@gmail.com](mailto:sumalybajra00@gmail.com) | [LinkedIn](https://linkedin.com/in/sumalyb) | [Portfolio](https://sumalybajracharya.com.np)
 
