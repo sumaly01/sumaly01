@@ -21,7 +21,7 @@
 **Backend:** NestJS, Node.js, Express.js, REST APIs, GraphQL  
 **Frontend:** React, Redux  
 **Database:** MongoDB, PostgreSQL  
-**Cloud & DevOps:** AWS (S3, SES), Docker, CI/CD, Git, Bitbucket 
+**Cloud & DevOps:** AWS (S3, SES), Docker, CI/CD, Git, Bitbucket  
 **Tools & Methodology:** Postman, Swagger, Apollo Studio, Jira, Agile/Scrum 
 **AI/ML:** RAG, LLMs, FAISS, Feature Engineering  
 
